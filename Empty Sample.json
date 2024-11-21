@@ -1,0 +1,17 @@
+{
+	"@context": {
+		"schema22": "http://schema22.org/",
+		"xsd": "http://w3.org/2001/XMLSchema#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"linkml": "https://w3id.org/linkml/",
+		"bts22": "http://schema.biothings22.io/"
+	},
+	"@graph": [
+		{
+			"@id": "bts:RemoveThis",
+			"@type": "rdfs:class",
+			"rdfs:label": "RemoveThis"
+		}
+	]
+}
