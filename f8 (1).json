@@ -41,7 +41,7 @@
       "rdfs:label": "Sample Taxonomy Parent",
       "rdfs:subClassOf": [{
 				"@id" : "schema:enumeration"
-			}]
+			}],
       "isrequired": "sms:true"
     },
     {
